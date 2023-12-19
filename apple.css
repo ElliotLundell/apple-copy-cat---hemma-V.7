@@ -68,23 +68,6 @@ a {
   color: rgb(0, 0, 0);
 }
 
-
-/*.learn_more_i {
-  position: absolute;
-  top: 96%;
-  left: 47%;
-  transform: translate(-50%, -50%);
-  color: #2997ff;
-}
-
-.Buy_i {
-  position: absolute;
-  top: 96%;
-  left: 53%;
-  transform: translate(-50%, -50%);
-  color: #2997ff;
-}*/
-
 .Bilder {
   position: absolute;
   top: 4%;
@@ -261,8 +244,6 @@ nav:hover {
 .grid-container{
   background-color:#ffffff;
   display:grid;
-  /*grid-template-columns: repeat(5, 20%);
-  grid-template-rows: 50% 50%;*/
   grid-template-columns: 50% 50%;
   grid-template-rows: repeat(3, 1fr);
   
@@ -273,28 +254,12 @@ nav:hover {
   grid-column: span 2;
 }
 
-#content-type1{
-  background-color: #fbfbfd;
-    
-}
+
 img{
   width:100%;
   height:auto;
   align-self:center;
 }
-#content-type2{
-  background-color: #fbfbfd;
-}
-
-
-
-
-/* carousel*/
-/** {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}*/
 
 .carousel-container {
   width: 1200px;
